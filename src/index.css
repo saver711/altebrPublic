@@ -77,7 +77,7 @@
 /* UTILITIES */
 @layer utilities{
   .scrollbar{
-    @apply scrollbar-thin scrollbar-thumb-mainGreen scrollbar-track-green hover:scrollbar-thumb-red-700 scrollbar-rounded-[10px]
+    @apply scrollbar-thin scrollbar-thumb-mainGreen scrollbar-track-green
   }
 }
 /* ./UTILITIES */
